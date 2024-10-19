@@ -1,4 +1,4 @@
-# React Mini Projects for Learning the Core Concepts
+# 🔯React Mini Projects for Learning the Core Concepts
 
 ## Technologies I Used⚙
 
@@ -12,7 +12,18 @@
 
 ![BMI](https://github.com/user-attachments/assets/6280a5ed-ffef-41cb-9bf8-3a25fa8923a5)
 
-## Learning
+## 🧠Learning
 - userState
 - preventing form submission
 - reload page
+
+<hr>
+
+> Project-2: Weather App
+
+![weatherapp](https://github.com/user-attachments/assets/c7bb402d-1792-4323-9e6d-d8171aed55be)
+
+## 🧠Learning
+- image import
+- API data fetching
+- Date formating using:  currentDate.toLocaleDateString('en-US', {year: 'numeric', month:'long',day:'2-digit'});
